@@ -1,5 +1,5 @@
 {
-  "name": "frappe-email-routing",
+  "name": "frappe_email_routing",
   "version": "0.0.2",
   "description": "Custom email routing and automatic document linking for Mimirio's internal CRM workflows.",
   "author": "Mimirio",

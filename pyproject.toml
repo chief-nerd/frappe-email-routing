@@ -1,5 +1,5 @@
 [project]
-name = "frappe-email-routing"
+name = "frappe_email_routing"
 authors = [
     { name = "Mimirio", email = "info@mimirio.com"}
 ]
