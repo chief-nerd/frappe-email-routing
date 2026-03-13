@@ -1,5 +1,5 @@
 [project]
-name = "frappe-opportunity-email-routing"
+name = "frappe-email-routing"
 authors = [
     { name = "Mimirio", email = "info@mimirio.com"}
 ]
@@ -10,10 +10,10 @@ license = { text = "MIT" }
 dynamic = ["version"]
 
 [project.urls]
-Homepage = "https://github.com/mimirio-com/frappe-opportunity-email-routing"
+Homepage = "https://github.com/chief-nerd/frappe-email-routing"
 
 [tool.flit.module]
-name = "frappe_opportunity_email_routing"
+name = "frappe_email_routing"
 
 [build-system]
 requires = ["flit_core >=3.4,<4"]
