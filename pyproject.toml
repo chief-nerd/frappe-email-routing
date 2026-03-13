@@ -1,0 +1,20 @@
+[project]
+name = "frappe-opportunity-email-routing"
+authors = [
+    { name = "Mimirio", email = "info@mimirio.com"}
+]
+description = "Custom email routing and automatic document linking for Mimirio's internal CRM workflows."
+requires-python = ">=3.10"
+readme = "README.md"
+license = { text = "MIT" }
+dynamic = ["version"]
+
+[project.urls]
+Homepage = "https://github.com/mimirio-com/frappe-opportunity-email-routing"
+
+[tool.flit.module]
+name = "frappe_opportunity_email_routing"
+
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
